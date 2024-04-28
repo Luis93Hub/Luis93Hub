@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 I'm **Luis Hernandez**, a web developer from 🌎 **Nicaragua** currently living in **Kuopio, Finland** 🇫🇮. 
 
-[<img src="./Pink Black Photocentric Neon Tech Talk Podcast Instagram Post.png" width="300" height="250">]()
+[<img src="./Pink Black Photocentric Neon Tech Talk Podcast Instagram Post.png" width="600" height="400">]()
 
 
 
