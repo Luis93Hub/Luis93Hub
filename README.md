@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 
 I'm **Luis Hernandez**, a web developer from 🌎 **Nicaragua** currently living in **Kuopio, Finland** 🇫🇮. 
 
+##
+### Please you can visit my page: https://live-hernandez-portfolio.pantheonsite.io
+
+![Luis93HUB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis93HUB&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis93Hub&layout=compact&theme=dark)
+
 ### 💻 Things I code with
+
 ## 🎛️ Operating System
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -43,10 +51,6 @@ I'm **Luis Hernandez**, a web developer from 🌎 **Nicaragua** currently living
 [![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)](https://www.drupal.org/user)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-hern%C3%A1ndez-g%C3%B3mez-135bb416b/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T06GX3JTS/C06GX3K08)
-
-![Luis93HUB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis93HUB&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis93Hub&layout=compact&theme=dark)
 
 ## 💬 Social | Ask me about ...
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/LuisCar28050784)
