@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 
 I'm **Luis Hernandez**, a web developer from 🌎 **Nicaragua** currently living in **Kuopio, Finland** 🇫🇮. 
 
-[<img src="./Pink Black Photocentric Neon Tech Talk Podcast Instagram Post.png" width="600" height="400">]()
-
-
-
-
-
 ### 💻 Things I code with
 ## 🎛️ Operating System
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
